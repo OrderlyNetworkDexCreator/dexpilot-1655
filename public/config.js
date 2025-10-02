@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "DexPilot - DeFi Trading",
+  "VITE_ORDERLY_BROKER_NAME": "DexPilot DeFi Terminal",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56,42161,8453,10",
@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "9991415d84ba5ac2270f471029711d8e",
-  "VITE_APP_NAME": "DexPilot - DeFi Trading",
+  "VITE_APP_NAME": "DexPilot DeFi Terminal",
   "VITE_APP_DESCRIPTION": "Trade crypto futures on DexPilot – a cross-chain DEX with zero KYC, lightning-fast execution, and true DeFi privacy",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
