@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "dexpilot",
   "VITE_ORDERLY_BROKER_NAME": "DexPilot",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -7,7 +7,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_TESTNET_CHAINS": "97,901901901",
   "VITE_DEFAULT_CHAIN": "56",
   "VITE_PRIVY_APP_ID": "cmg9l5u2z00umjs0dcjp9jr04",
-  "VITE_PRIVY_LOGIN_METHODS": "email,passkey,google,twitter",
+  "VITE_PRIVY_LOGIN_METHODS": "email",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
