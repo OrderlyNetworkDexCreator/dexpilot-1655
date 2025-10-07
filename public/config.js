@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade crypto futures on DexPilot – a cross-chain DEX with zero KYC, lightning-fast execution, and true DeFi privacy",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Leaderboard",
   "VITE_CUSTOM_MENUS": "Crypto Cards, https://t.me/DexPilotWalletBot; Community, https://t.me/dexpilot_chat",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/dexpilot",
