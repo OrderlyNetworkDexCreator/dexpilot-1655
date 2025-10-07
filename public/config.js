@@ -4,12 +4,12 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,56,42161,8453,10",
-  "VITE_ORDERLY_TESTNET_CHAINS": "97,901901901",
+  "VITE_ORDERLY_TESTNET_CHAINS": "97",
   "VITE_DEFAULT_CHAIN": "56",
   "VITE_PRIVY_APP_ID": "cmg9l5u2z00umjs0dcjp9jr04",
-  "VITE_PRIVY_LOGIN_METHODS": "email",
+  "VITE_PRIVY_LOGIN_METHODS": "email,passkey,google,twitter",
   "VITE_PRIVY_TERMS_OF_USE": "",
-  "VITE_ENABLE_ABSTRACT_WALLET": "false",
+  "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "9991415d84ba5ac2270f471029711d8e",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dexpilot, perpetual dex, trade crypto futures, decentralized perpetuals, no kyc trading, cross-chain dex, crypto trading platform, self-custody trading, non custodial exchange, onchain derivatives, zero kyc dex, web3 trading terminal, fast dex aggregator, crypto leverage trading, decentralized futures exchange, permissionless crypto trading, DEX for leverage, privacy crypto trading, perpetual contracts, trade with wallet",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
